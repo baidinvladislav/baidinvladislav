@@ -1,8 +1,11 @@
 ### Hi there 👋
-I have over 3 years of experience in web-development.
+- 👨‍💻 Over 3 years of experience in web-development.
 
-Resolved > 100 coding questions.
+- ✅ Resolved > 100 coding questions.
 
+- 🌐 Solid fundamental understanding of web technologies including HTTP and RESTful services
+
+- 💻 Test, troubleshoot, document, upgrade and develop of web-applications.
 
 
 
