@@ -1,4 +1,9 @@
 ### Hi there 👋
+I have over 3 years of experience in web-development.
+Resolved > 100 coding questions.
+
+
+
 
 <!--
 **baydinvladislav/baydinvladislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
