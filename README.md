@@ -3,7 +3,7 @@
 
 - ✅ Resolved > 100 coding questions.
 
-- 🌐 Solid fundamental understanding of web technologies including HTTP and RESTful services
+- 🌐 Solid fundamental understanding of web technologies including HTTP and RESTful services.
 
 - 💻 Test, troubleshoot, document, upgrade and develop of web-applications.
 
