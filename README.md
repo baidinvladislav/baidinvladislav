@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Vladislav 👋
 - 👨‍💻 Over 3 years of experience in web-development.
 
 - ✅ Resolved > 100 coding questions.
