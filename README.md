@@ -5,7 +5,7 @@
 
 - 🌐 Solid fundamental understanding of web technologies including HTTP and RESTful services.
 
-- 💻 Test, troubleshoot, document, upgrade and develop of web-applications.
+- 💻 Development, testing, troubleshooting, documentation of web-applications.
 
 
 
