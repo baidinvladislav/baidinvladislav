@@ -1,25 +1,8 @@
 ### Hello, I'm Vladislav 👋
-- 👨‍💻 Over 3 years of experience in web-development.
+- 👨‍💻 Over 4 years of experience in web-development.
 
-- ✅ Resolved > 100 coding questions.
+- ✅ Resolved > 150 coding questions on LeetCode.
 
 - 🌐 Solid fundamental understanding of web technologies including HTTP and RESTful services.
 
 - 💻 Development, testing, troubleshooting, documentation of web-applications.
-
-
-
-<!--
-**baydinvladislav/baydinvladislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
