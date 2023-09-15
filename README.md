@@ -1,4 +1,4 @@
-### Hello, I'm Vladislav 👋
+### Hello, I'm Vlad 👋
 - 👨‍💻 Over 4 years of experience in web-development.
 
 - ✅ Resolved > 150 coding questions on LeetCode.
