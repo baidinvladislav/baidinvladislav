@@ -17,7 +17,3 @@
   - <a href="https://apps.apple.com/app/id1418412616" target="_blank">
       <img src="assets/app-store.png" alt="App Store" width="20" style="vertical-align:middle"> Whoosh App on App Store
     </a>
-
-<br>
-<br>
-<br>
