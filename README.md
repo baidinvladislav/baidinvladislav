@@ -21,12 +21,3 @@
 <br>
 <br>
 <br>
-
-<img src="assets/python-logo.svg" alt="Python" width="120" style="vertical-align:middle">
-<img src="assets/js-logo.svg" alt="JavaScript" width="60" style="vertical-align:middle">
-<img src="assets/go-logo.svg" alt="Go" width="120" style="vertical-align:middle">
-<img src="assets/kafka-logo.png" alt="Apache Kafka" width="120" style="vertical-align:middle">
-<img src="assets/postgresql-logo.png" alt="Postgres" width="70" style="vertical-align:middle">
-<img src="assets/redis-logo.svg" alt="Redis" width="70" style="vertical-align:middle">
-<img src="assets/aws-logo.png" alt="AWS" width="70" style="vertical-align:middle">
-<img src="assets/docker-logo.png" alt="Docker" width="200" style="vertical-align:middle">
