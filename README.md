@@ -10,5 +10,6 @@
 - 🛠️ Developed **microservices** for the Russian startup **Whoosh** — a leading e-scooter sharing service operating in **Russia, Belarus, Kazakhstan, Brazil, Chile, and Peru**.  
   - The system handles up to **20,000 requests per second (RPS)** during peak season.  
   - Serves over **15 million users worldwide** 🇷🇺, 🇧🇾, 🇰🇿, 🇧🇷, 🇨🇱, 🇵🇪. 
+  - Fleet of **300,000 scooters** across all operating regions 🛴.
   - [🌐 Whoosh on Google Play](https://play.google.com/store/apps/details?id=com.punicapp.whoosh&hl=en)  
   - [🌐 Whoosh on the App Store](https://apps.apple.com/app/id1418412616)
