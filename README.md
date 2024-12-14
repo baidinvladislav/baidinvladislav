@@ -17,3 +17,9 @@
   - <a href="https://apps.apple.com/app/id1418412616" target="_blank">
       <img src="./app-store.png" alt="App Store" width="20" style="vertical-align:middle"> Whoosh App on App Store
     </a>
+
+<br>
+<br>
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" style="vertical-align:middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" style="vertical-align:middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="60" style="vertical-align:middle">
