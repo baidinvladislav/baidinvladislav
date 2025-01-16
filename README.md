@@ -3,4 +3,4 @@
 - 🌐 Solid fundamental understanding of web technologies including HTTP and RESTful services
 - 💻 Development, testing, troubleshooting, and documentation of web applications
 - 👨‍💻 5+ years of experience in commercial web development
-- 📱 Published AppStore app: RN + FastAPI application https://apps.apple.com/app/ascoach/id6452119737 
+- 📱 Published AppStore app: React Native + FastAPI application https://apps.apple.com/app/ascoach/id6452119737 
